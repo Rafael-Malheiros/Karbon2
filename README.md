@@ -1,1 +1,1 @@
-# Karbon2
+Para poder rodar o código, faz-se necessário que o usuário dê run na main, que se chama KarbonmesApplication.java, ao realizar isso, o código fará com que a localport 8080 crie um “site” na internet, para poder entrar na tela de login, é necessário que o usuário entre no endereço http://localport:8080/Identificacao, e então deve-se botar as informações que são pedidas e então o usuário será redirecionado para a devida página.
